@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekGit\Go1\bin\Debug\net6.0\Go1.exe
+C:\Users\User\Desktop\GeekGit\Go1\bin\Debug\net6.0\Go1.deps.json
+C:\Users\User\Desktop\GeekGit\Go1\bin\Debug\net6.0\Go1.runtimeconfig.json
+C:\Users\User\Desktop\GeekGit\Go1\bin\Debug\net6.0\Go1.dll
+C:\Users\User\Desktop\GeekGit\Go1\bin\Debug\net6.0\Go1.pdb
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.dll
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\refint\Go1.dll
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.pdb
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\Go1.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekGit\Go1\obj\Debug\net6.0\ref\Go1.dll
