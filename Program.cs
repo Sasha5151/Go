@@ -3,7 +3,7 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-Console.Write("Введите целое число  :  ");
+Console.Write("ВВедите целое число  :  ");
 int number = Convert.ToInt32(Console.ReadLine());
 int count = 1;
 Console.Write("Четные числа от 1 до "); Console.Write(number);Console.Write("  :   ");
